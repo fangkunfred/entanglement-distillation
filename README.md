@@ -4,7 +4,7 @@ This project contains Matlab and Mathematica scripts that supplement the results
 
 ## Dependencies:
 
-You will need the following packages to run the scripts in this project
+You will need the following packages to run the scripts in this project:
 
 CVX (http://cvxr.com/cvx/) 
 QETLAB (http://www.qetlab.com/Main_Page)
