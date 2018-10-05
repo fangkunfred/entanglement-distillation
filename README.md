@@ -1,4 +1,4 @@
-# Codes for non-asymptotic entanglement-distillation
+# Codes for non-asymptotic entanglement distillation
 
 This project contains Matlab and Mathematica scripts that supplement the results of the article **Non-asymptotic entanglement distillation** (https://arxiv.org/abs/1706.06221).
 
